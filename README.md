@@ -2,10 +2,13 @@
 
 **Team members:**
 
-Aniket Aladamar - 9482191061 -   https://github.com/Aniket-Aladamar
-Deekshith R Prabhu - 9945948081 - https://github.com/rpdeeksh
-Sumedha L - 7022436666 - https://github.com/sumedha-lolur
-Lohith R Gowda - 6362178996 -  https://github.com/LohithR22
+Aniket Aladamar -   https://github.com/Aniket-Aladamar
+
+Deekshith R Prabhu - https://github.com/rpdeeksh
+
+Sumedha L - https://github.com/sumedha-lolur
+
+Lohith R Gowda - https://github.com/LohithR22
 
 **Description About our application V-Help:**
 
@@ -24,10 +27,16 @@ Our platform is designed to be user-friendly, enabling anyone to easily organize
 **Prompts Implemented:**
 
 User Sign-In: Access to personalized features and location-based services.
+
 Real-Time Location Information: Provides accurate data on affected areas.
+
 Weather Updates and Precautions: Delivers tailored safety advice based on current weather conditions.
+
 Volunteering Needs: Connects volunteers with opportunities to assist in disaster-stricken areas.
+
 Grocery Needs: Coordinates the distribution of essential goods to those affected.
+
 Donations: Facilitates direct donations to relief efforts.
+
 Start a Volunteering Campaign: Enables users to launch their own relief campaigns.
 
