@@ -1,0 +1,11 @@
+.profile-icon {
+    position: absolute;
+    top: 15px;
+    right: 30px;
+}
+
+.profile-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}

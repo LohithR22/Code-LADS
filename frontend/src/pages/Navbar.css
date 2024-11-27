@@ -1,0 +1,34 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar .logo h2 {
+    margin: 0;
+    color: #1A1A60;
+}
+
+.navbar .nav-links {
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+.navbar .nav-links li {
+    margin: 0 20px;
+}
+
+.navbar .nav-links li a {
+    text-decoration: none;
+    color: #1A1A60;
+    font-weight: bold;
+}
+
+.navbar .location {
+    font-weight: bold;
+    color: #1A1A60;
+}

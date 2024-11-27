@@ -1,0 +1,29 @@
+.auth-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.auth-logo {
+    width: 100px; /* Adjust the size of the logo as needed */
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.auth-title {
+    font-size: 36px;
+    color: #1A1A60;
+    font-weight: bold;
+    margin: 0;
+}
