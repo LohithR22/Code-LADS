@@ -18,7 +18,7 @@ Our mission is to streamline disaster response efforts by connecting volunteers,
 
 At V-Help, we believe in the power of community and the importance of timely assistance. Our platform is designed to bring people together, ensuring that no one faces a disaster alone.
 
-How we tackle the given problem
+How we tackle the given problem:
 
 Our website addresses the critical issue of limited awareness about disaster precautions and the inefficiency of fragmented communication channels during emergencies. By signing in, users can instantly access tailored safety advice based on their current location and real-time weather conditions, ensuring they are well-prepared for any imminent weather-related challenges.
 
@@ -26,17 +26,17 @@ Our platform is designed to be user-friendly, enabling anyone to easily organize
 
 **Prompts Implemented:**
 
-User Sign-In: Access to personalized features and location-based services.
+- User Sign-In: Access to personalized features and location-based services.
 
-Real-Time Location Information: Provides accurate data on affected areas.
+- Real-Time Location Information: Provides accurate data on affected areas.
 
-Weather Updates and Precautions: Delivers tailored safety advice based on current weather conditions.
+- Weather Updates and Precautions: Delivers tailored safety advice based on current weather conditions.
 
-Volunteering Needs: Connects volunteers with opportunities to assist in disaster-stricken areas.
+- Volunteering Needs: Connects volunteers with opportunities to assist in disaster-stricken areas.
 
-Grocery Needs: Coordinates the distribution of essential goods to those affected.
+- Grocery Needs: Coordinates the distribution of essential goods to those affected.
 
-Donations: Facilitates direct donations to relief efforts.
+- Donations: Facilitates direct donations to relief efforts.
 
-Start a Volunteering Campaign: Enables users to launch their own relief campaigns.
+- Start a Volunteering Campaign: Enables users to launch their own relief campaigns.
 
