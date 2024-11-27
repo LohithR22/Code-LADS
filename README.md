@@ -1,6 +1,7 @@
 **TeamName** - CODE LADS
 
 **Team members:**
+
 Aniket Aladamar - 9482191061 -   https://github.com/Aniket-Aladamar
 Deekshith R Prabhu - 9945948081 - https://github.com/rpdeeksh
 Sumedha L - 7022436666 - https://github.com/sumedha-lolur
@@ -21,6 +22,7 @@ Our website addresses the critical issue of limited awareness about disaster pre
 Our platform is designed to be user-friendly, enabling anyone to easily organize volunteer campaigns or donate essential items like groceries to those impacted by disasters. This streamlined approach ensures that help reaches those in need more effectively and efficiently, making a real difference in disaster response and recovery efforts.
 
 **Prompts Implemented:**
+
 User Sign-In: Access to personalized features and location-based services.
 Real-Time Location Information: Provides accurate data on affected areas.
 Weather Updates and Precautions: Delivers tailored safety advice based on current weather conditions.
